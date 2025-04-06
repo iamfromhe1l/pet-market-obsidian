@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "e48b355828a2ad77",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd12c254ab1c61a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f3bf9e324f612ad",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanbans/Frontend Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Frontend Kanban"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "683bcc5cb1aa7d10",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbc2bec84e72ae3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4262642f8394e13b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "865c34d28fd602c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba908fdd5b2fe5ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d6a9613ba94a233",
+    "type": "split",
+    "children": [
+      {
+        "id": "60454a1621f2c2c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3872ede53f1bcfac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanbans/Frontend Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Frontend Kanban"
+            }
+          },
+          {
+            "id": "06e662aacacf6dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "36f442841df41b77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b6e9e5346927696",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "8f19c4a1ebf1e187",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6f3bf9e324f612ad",
+  "lastOpenFiles": [
+    "Kanbans/Backend Kanban.md",
+    "Kanbans/Frontend Kanban.md",
+    "Frontend Tasks/Создать страницы авторизации.md",
+    "Kanbans/Шаблон задачи.md",
+    "Wiki",
+    "Создание страниц авторизации.md",
+    "Frontend Tasks/Создание страниц авторизации.md",
+    "Kanbans",
+    "Frontend Tasks/12de.md",
+    "T1 Создать стораницу.md",
+    "Backend Tasks",
+    "Frontend Tasks",
+    "Информационная безопасность/1 Практика.md",
+    "Информационная безопасность/Главная.md",
+    "Welcome.md",
+    "Untitled.md",
+    "Информационная безопасность"
+  ]
+}
