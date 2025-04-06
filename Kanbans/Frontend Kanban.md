@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] [[Создание страниц авторизации]]
 
 
 ## On Review

@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +184,13 @@
   },
   "active": "6f3bf9e324f612ad",
   "lastOpenFiles": [
-    "Kanbans/Backend Kanban.md",
+    "Frontend Tasks/Создание страниц авторизации.md",
     "Kanbans/Frontend Kanban.md",
+    "Kanbans/Backend Kanban.md",
     "Frontend Tasks/Создать страницы авторизации.md",
     "Kanbans/Шаблон задачи.md",
     "Wiki",
     "Создание страниц авторизации.md",
-    "Frontend Tasks/Создание страниц авторизации.md",
     "Kanbans",
     "Frontend Tasks/12de.md",
     "T1 Создать стораницу.md",
