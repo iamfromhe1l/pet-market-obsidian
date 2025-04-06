@@ -11,21 +11,14 @@
             "id": "6f3bf9e324f612ad",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbans/Frontend Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Wiki/База данных.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Frontend Kanban"
+              "icon": "lucide-file",
+              "title": "База данных"
             }
           }
         ]
@@ -85,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.5
   },
   "right": {
     "id": "2d6a9613ba94a233",
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbans/Frontend Kanban.md",
+                "file": "Wiki/База данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Frontend Kanban"
+              "title": "Backlinks for База данных"
             }
           },
           {
@@ -184,8 +177,9 @@
   },
   "active": "6f3bf9e324f612ad",
   "lastOpenFiles": [
-    "Frontend Tasks/Создание страниц авторизации.md",
     "Kanbans/Frontend Kanban.md",
+    "Wiki/База данных.md",
+    "Frontend Tasks/Создание страниц авторизации.md",
     "Kanbans/Backend Kanban.md",
     "Frontend Tasks/Создать страницы авторизации.md",
     "Kanbans/Шаблон задачи.md",
