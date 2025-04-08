@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "475fb79adeb41266",
+        "id": "3b8d222c15de8443",
         "type": "tabs",
         "children": [
           {
-            "id": "acac01feca617633",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanbans/Frontend Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Frontend Kanban"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e27e8c0cf34230fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1029cde63e37c29f",
+            "id": "004dd925f93279ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,20 +175,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acac01feca617633",
+  "active": "004dd925f93279ef",
   "lastOpenFiles": [
-    "Frontend Tasks/Страница Админ-панели.md",
-    "Kanbans/Frontend Kanban.md",
     "Frontend Tasks/Создание страниц авторизации.md",
     "Frontend Tasks/NavBar.md",
+    "Kanbans/Frontend Kanban.md",
     "Wiki/База данных.md",
+    "Kanbans/Backend Kanban.md",
+    "Frontend Tasks/Страница Админ-панели.md",
     "Files/Screenshot 2025-04-06 at 21.22.40.png",
     "Files/Screenshot 2025-04-06 at 21.23.32.png",
     "Files",
     "Files/Screenshot 2025-04-06 at 21.23.39.png",
     "Files/Screenshot 2025-04-06 at 21.22.55.png",
     "Kanbans/Шаблон задачи.md",
-    "Kanbans/Backend Kanban.md",
     "Frontend Tasks/Создать страницы авторизации.md",
     "Wiki",
     "Создание страниц авторизации.md",
