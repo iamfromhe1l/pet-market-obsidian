@@ -19,6 +19,7 @@ kanban-plugin: board
 ## Completed
 
 - [ ] [[Initialize nestJs app]]
+- [ ] [[Create Users Module]]
 
 
 ***
