@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] [[Implement RBAC authorization]]
+- [ ] [[Create Kennels Module]]
 
 
 ## In Progress
@@ -20,6 +22,7 @@ kanban-plugin: board
 
 - [ ] [[Initialize nestJs app]]
 - [ ] [[Create Users Module]]
+- [ ] [[Implement authentication]]
 
 
 ***
