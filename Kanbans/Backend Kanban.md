@@ -7,11 +7,11 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] [[Implement RBAC authorization]]
-- [ ] [[Create Kennels Module]]
 
 
 ## In Progress
 
+- [ ] [[Create Kennels Module]]
 
 
 ## On Review
