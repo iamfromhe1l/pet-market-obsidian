@@ -4,28 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b7f21f75a3515a",
+        "id": "68c9c77e4f629bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "508297e1287b8e58",
+            "id": "dfed6f21138360c9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "split-diff-view",
               "state": {
-                "file": "Kanbans/Backend Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-trello",
-              "title": "Backend Kanban"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ]
@@ -168,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,30 +175,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "508297e1287b8e58",
+  "active": "dfed6f21138360c9",
   "lastOpenFiles": [
-    "Kanbans/Frontend Kanban.md",
-    "Kanbans/Backend Kanban.md",
+    "conflict-files-obsidian-git.md",
+    "Frontend Tasks/Создание страниц авторизации.md",
+    "Frontend Tasks/Страница Админ-панели.md",
+    "Frontend Tasks/Страница отправки заявки на получение аккаунта питомника.md",
+    "Backend Tasks/Create Users Module.md",
     "Backend Tasks/Implement authentication.md",
     "Backend Tasks/Create Kennels Module.md",
-    "Wiki/База данных.md",
+    "Backend Tasks/Initialize nestJs app.md",
+    "Backend Tasks/Implement RBAC authorization.md",
+    "Kanbans/Backend Kanban.md",
     "Wiki/База данных-2025-04-09-11-08-30.png",
-    "Backend Tasks/Create Users Module.md",
-    "Frontend Tasks/Страница отправки заявки на получение аккаунта питомника.md",
-    "Frontend Tasks/Страница Админ-панели.md",
+    "Wiki/База данных.md",
+    "Kanbans/Frontend Kanban.md",
+    "Kanbans/Шаблон задачи.md",
     "Files/Screenshot 2025-04-08 at 22.21.31.png",
     "Files/Screenshot 2025-04-08 at 22.20.12.png",
     "Files/Screenshot 2025-04-08 at 22.19.44.png",
     "Files/Screenshot 2025-04-08 at 22.20.05.png",
     "Files/Screenshot 2025-04-08 at 22.21.16.png",
-    "Frontend Tasks/Создание страниц авторизации.md",
     "Frontend Tasks/NavBar.md",
     "Files/Screenshot 2025-04-06 at 21.22.40.png",
     "Files/Screenshot 2025-04-06 at 21.23.32.png",
     "Files",
     "Files/Screenshot 2025-04-06 at 21.23.39.png",
     "Files/Screenshot 2025-04-06 at 21.22.55.png",
-    "Kanbans/Шаблон задачи.md",
     "Frontend Tasks/Создать страницы авторизации.md",
     "Wiki",
     "Создание страниц авторизации.md",
