@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68c9c77e4f629bd6",
+        "id": "7006c37f6b861fdc",
         "type": "tabs",
         "children": [
           {
-            "id": "dfed6f21138360c9",
+            "id": "74a3d08592103595",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Wiki/Работа с `Obsidian`.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "Работа с `Obsidian`"
             }
           }
         ]
@@ -175,21 +175,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfed6f21138360c9",
+  "active": "4262642f8394e13b",
   "lastOpenFiles": [
+    "Wiki/GIT.md",
+    "Wiki/Работа с `Obsidian`.md",
+    "Backend Tasks/Create Kennels Module.md",
+    "Kanbans/Backend Kanban.md",
+    "Kanbans/Frontend Kanban.md",
     "conflict-files-obsidian-git.md",
     "Frontend Tasks/Создание страниц авторизации.md",
     "Frontend Tasks/Страница Админ-панели.md",
     "Frontend Tasks/Страница отправки заявки на получение аккаунта питомника.md",
     "Backend Tasks/Create Users Module.md",
     "Backend Tasks/Implement authentication.md",
-    "Backend Tasks/Create Kennels Module.md",
     "Backend Tasks/Initialize nestJs app.md",
     "Backend Tasks/Implement RBAC authorization.md",
-    "Kanbans/Backend Kanban.md",
     "Wiki/База данных-2025-04-09-11-08-30.png",
     "Wiki/База данных.md",
-    "Kanbans/Frontend Kanban.md",
     "Kanbans/Шаблон задачи.md",
     "Files/Screenshot 2025-04-08 at 22.21.31.png",
     "Files/Screenshot 2025-04-08 at 22.20.12.png",
