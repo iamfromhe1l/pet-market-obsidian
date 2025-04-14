@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b7f21f75a3515a",
+        "id": "2e310ff866c139f0",
         "type": "tabs",
         "children": [
           {
-            "id": "508297e1287b8e58",
+            "id": "cf767f18e5536dc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Frontend Tasks/Страница отправки заявки на получение аккаунта питомника.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Страница отправки заявки на получение аккаунта питомника"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -175,26 +175,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "508297e1287b8e58",
+  "active": "cf767f18e5536dc2",
   "lastOpenFiles": [
+    "Frontend Tasks/Создание страниц авторизации.md",
     "Frontend Tasks/Страница Админ-панели.md",
-    "Files/Screenshot 2025-04-08 at 22.21.31.png",
     "Frontend Tasks/Страница отправки заявки на получение аккаунта питомника.md",
+    "Backend Tasks/Create Users Module.md",
+    "Backend Tasks/Implement authentication.md",
+    "Backend Tasks/Create Kennels Module.md",
+    "Backend Tasks/Initialize nestJs app.md",
+    "Backend Tasks/Implement RBAC authorization.md",
+    "Kanbans/Backend Kanban.md",
+    "Wiki/База данных-2025-04-09-11-08-30.png",
+    "Wiki/База данных.md",
+    "Kanbans/Frontend Kanban.md",
+    "Kanbans/Шаблон задачи.md",
+    "Files/Screenshot 2025-04-08 at 22.21.31.png",
     "Files/Screenshot 2025-04-08 at 22.20.12.png",
     "Files/Screenshot 2025-04-08 at 22.19.44.png",
     "Files/Screenshot 2025-04-08 at 22.20.05.png",
     "Files/Screenshot 2025-04-08 at 22.21.16.png",
-    "Kanbans/Frontend Kanban.md",
-    "Frontend Tasks/Создание страниц авторизации.md",
     "Frontend Tasks/NavBar.md",
-    "Wiki/База данных.md",
-    "Kanbans/Backend Kanban.md",
     "Files/Screenshot 2025-04-06 at 21.22.40.png",
     "Files/Screenshot 2025-04-06 at 21.23.32.png",
     "Files",
     "Files/Screenshot 2025-04-06 at 21.23.39.png",
     "Files/Screenshot 2025-04-06 at 21.22.55.png",
-    "Kanbans/Шаблон задачи.md",
     "Frontend Tasks/Создать страницы авторизации.md",
     "Wiki",
     "Создание страниц авторизации.md",
