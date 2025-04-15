@@ -4,7 +4,9 @@ task-id: B4
 ---
 ## **Описание задачи**
 
-`пусто`
+Implement RBAC authorization method, Roles decorator, add role into jwt payload. add methods to change roles.
+Implement helper functions such as ObjectIdPipe, jwt payload extracters to id, email, role
+Hot fixes of B3 branch 
 
 ---
 ## **Этапы выполнения**
