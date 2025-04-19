@@ -4,8 +4,7 @@ task-id: B5
 ---
 ## **Описание задачи**
 
-Add task-id, create Kennel schema, all enums and types, 
-Implement all basmethods of Kennel Service, define all routes in controller, add api docs in bruno, cover service with unit tests.
+Инициализировать Модуль Kennels, описать базовые поля в схеме,  реализовать основные методы в сервисе, описать маршруты в контроллере и описать api документацию в bruno
 
 ---
 ## **Этапы выполнения**
