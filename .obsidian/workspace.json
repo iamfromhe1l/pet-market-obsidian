@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Работа с `Obsidian`.md",
+                "file": "Frontend Tasks/Создание страниц авторизации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с `Obsidian`"
+              "title": "Создание страниц авторизации"
             }
           }
         ]
@@ -185,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4262642f8394e13b",
+  "active": "1b90e63adc6755e1",
   "lastOpenFiles": [
+    "Frontend Tasks/Страница Админ-панели.md",
     "Wiki/Работа с `Obsidian`.md",
     "Files/Screenshot 2025-04-20 at 00.27.03.png",
     "Backend Tasks/Create Kennels Module.md",
@@ -200,7 +201,6 @@
     "Kanbans/Backend Kanban.md",
     "Wiki/GIT.md",
     "conflict-files-obsidian-git.md",
-    "Frontend Tasks/Страница Админ-панели.md",
     "Frontend Tasks/Страница отправки заявки на получение аккаунта питомника.md",
     "Wiki/База данных.md",
     "Kanbans/Шаблон задачи.md",
