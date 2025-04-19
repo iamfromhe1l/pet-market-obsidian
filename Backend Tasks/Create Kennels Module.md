@@ -17,4 +17,3 @@ Implement all basmethods of Kennel Service, define all routes in controller, add
 ---
 ## **Комментарии**
 
-`пусто`
