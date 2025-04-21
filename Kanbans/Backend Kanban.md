@@ -23,6 +23,7 @@ kanban-plugin: board
 - [ ] [[Initialize nestJs app]]
 - [ ] [[Create Users Module]]
 - [ ] [[Implement authentication]]
+- [ ] [[Implement RBAC authorization]]
 
 
 ***
