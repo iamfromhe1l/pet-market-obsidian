@@ -4,21 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "7a088df9f88c1646",
+        "id": "4181ebcd6c3b188d",
         "type": "tabs",
         "children": [
           {
-            "id": "1b90e63adc6755e1",
+            "id": "dbda0796d57b55e8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanbans/Frontend Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Frontend Kanban"
+            }
+          }
+        ]
+      },
+      {
+        "id": "08183083d2b9e55f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd3b55a415e831fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Tasks/Создание страниц авторизации.md",
+                "file": "Frontend Tasks/Добавление контекста для User.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Создание страниц авторизации"
+              "title": "Добавление контекста для User"
             }
           }
         ]
@@ -185,8 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b90e63adc6755e1",
+  "active": "bd3b55a415e831fa",
   "lastOpenFiles": [
+    "Kanbans/Frontend Kanban.md",
+    "Frontend Tasks/Добавление контекста для User.md",
+    "Frontend Tasks/Создание страниц авторизации.md",
     "Frontend Tasks/Страница Админ-панели.md",
     "Wiki/Работа с `Obsidian`.md",
     "Files/Screenshot 2025-04-20 at 00.27.03.png",
@@ -194,8 +224,6 @@
     "Backend Tasks/Implement authentication.md",
     "Backend Tasks/Initialize nestJs app.md",
     "Backend Tasks/Implement RBAC authorization.md",
-    "Frontend Tasks/Создание страниц авторизации.md",
-    "Kanbans/Frontend Kanban.md",
     "Backend Tasks/Create Users Module.md",
     "Wiki/База данных-2025-04-09-11-08-30.png",
     "Kanbans/Backend Kanban.md",
