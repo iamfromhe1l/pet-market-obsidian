@@ -31,7 +31,7 @@
   "dateInHistoryView": true,
   "diffStyle": "split",
   "lineAuthor": {
-    "show": true,
+    "show": false,
     "followMovement": "all-commits",
     "authorDisplay": "initials",
     "showCommitHash": false,
