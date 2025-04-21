@@ -11,46 +11,17 @@
             "id": "508297e1287b8e58",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbans/Backend Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Backend Tasks/Create Kennels Module.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Backend Kanban"
-            }
-          },
-          {
-            "id": "5f2508f4218af673",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanbans/Backend Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Backend Kanban"
+              "icon": "lucide-file",
+              "title": "Create Kennels Module"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f2508f4218af673",
+  "active": "508297e1287b8e58",
   "lastOpenFiles": [
-    "Backend Tasks/Create Kennels Module.md",
     "Kanbans/Backend Kanban.md",
+    "Backend Tasks/Create Kennels Module.md",
     "conflict-files-obsidian-git.md",
     "Frontend Tasks/Добавление контекста для User.md",
     "Wiki/Техническая документация.md",
