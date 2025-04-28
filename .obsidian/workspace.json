@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8193308a34582ab4",
+        "id": "7799b664c7e82698",
         "type": "tabs",
         "children": [
           {
-            "id": "983ce8789183a9ef",
+            "id": "7a739846259f9bf1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Kanbans/Backend Kanban.md",
-                "bFile": "Kanbans/Backend Kanban.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Frontend Tasks/Базовый SideBar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Backend Kanban"
+              "icon": "lucide-file",
+              "title": "Базовый SideBar"
             }
           }
         ]
@@ -186,15 +185,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f19c4a1ebf1e187",
+  "active": "7a739846259f9bf1",
   "lastOpenFiles": [
-    "Kanbans/Backend Kanban~.md",
-    "Kanbans/Backend Kanban.md",
-    "conflict-files-obsidian-git.md",
+    "Frontend Tasks/Базовая страница питомника.md",
     "Kanbans/Frontend Kanban.md",
+    "Kanbans/Backend Kanban.md",
+    "Backend Tasks/Create Kennels Module.md",
+    "Backend Tasks/Implement RBAC authorization.md",
+    "Kanbans/Backend Kanban~.md",
+    "conflict-files-obsidian-git.md",
     "Frontend Tasks/Базовый SideBar.md",
     "Files/Screenshot 2025-04-28 at 20.10.02.png",
-    "Frontend Tasks/Базовая страница питомника.md",
     "Files/Screenshot 2025-04-28 at 20.09.55.png",
     "Files/Screenshot 2025-04-28 at 20.09.35.png",
     "Frontend Tasks/Страница Админ-панели.md",
@@ -208,10 +209,8 @@
     "Frontend Tasks/Создание страниц авторизации.md",
     "Wiki/Работа с `Obsidian`.md",
     "Files/Screenshot 2025-04-20 at 00.27.03.png",
-    "Backend Tasks/Create Kennels Module.md",
     "Backend Tasks/Implement authentication.md",
     "Backend Tasks/Initialize nestJs app.md",
-    "Backend Tasks/Implement RBAC authorization.md",
     "Backend Tasks/Create Users Module.md",
     "Wiki/База данных-2025-04-09-11-08-30.png",
     "Wiki/GIT.md",
