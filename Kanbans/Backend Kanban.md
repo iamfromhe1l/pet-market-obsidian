@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] [[Create Categories Module]]
 
 
 ## In Progress
