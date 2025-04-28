@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Tasks/Create Kennels Module.md",
+                "file": "Wiki/Работа с `Obsidian`.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create Kennels Module"
+              "title": "Работа с `Obsidian`"
             }
           }
         ]
@@ -177,19 +177,20 @@
   },
   "active": "508297e1287b8e58",
   "lastOpenFiles": [
+    "Wiki/Техническая документация.md",
+    "Wiki/GIT.md",
+    "Wiki/База данных.md",
+    "Wiki/База Данных.png",
+    "Wiki/Правила коммуникации в команде.md",
+    "Create Pets Module.md",
     "Kanbans/Backend Kanban.md",
     "Backend Tasks/Create Kennels Module.md",
     "conflict-files-obsidian-git.md",
     "Frontend Tasks/Добавление контекста для User.md",
-    "Wiki/Техническая документация.md",
     "Wiki/Работа с `Obsidian`.md",
     "Wiki/Правила по стилю кода.md",
     "Wiki/Правила по работе с Bruno.md",
-    "Wiki/Правила коммуникации в команде.md",
-    "Wiki/База Данных.png",
-    "Wiki/GIT.md",
     "Files/Screenshot 2025-04-20 at 00.27.03.png",
-    "Wiki/База данных.md",
     "Wiki/База данных-2025-04-09-11-08-30.png",
     "Kanbans/Frontend Kanban.md",
     "Frontend Tasks/Страница отправки заявки на получение аккаунта питомника.md",
@@ -216,8 +217,6 @@
     "Backend Tasks",
     "Frontend Tasks",
     "Информационная безопасность/1 Практика.md",
-    "Информационная безопасность/Главная.md",
-    "Welcome.md",
     "Информационная безопасность"
   ]
 }
