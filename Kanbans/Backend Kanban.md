@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Create Pets Module]]
 
 
 ## In Progress
 
 - [ ] [[Implement RBAC authorization]]
+- [ ] [[Backend Tasks/Create Pets Module]]
 
 
 ## On Review
