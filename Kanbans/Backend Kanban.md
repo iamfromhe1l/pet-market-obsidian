@@ -11,7 +11,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] [[Create Kennels Module]]
+- [ ] [[Implement RBAC authorization]]
 
 
 ## On Review
@@ -20,11 +20,10 @@ kanban-plugin: board
 
 ## Completed
 
-- [ ] [[Implement RBAC authorization]]
 - [ ] [[Initialize nestJs app]]
 - [ ] [[Create Users Module]]
 - [ ] [[Implement authentication]]
-- [ ] [[Implement RBAC authorization]]
+- [ ] [[Create Kennels Module]]
 
 
 ***
