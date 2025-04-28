@@ -11,21 +11,14 @@
             "id": "508297e1287b8e58",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbans/Backend Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Backend Tasks/Create Kennels Module.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Backend Kanban"
+              "icon": "lucide-file",
+              "title": "Create Kennels Module"
             }
           }
         ]
@@ -182,20 +175,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f19c4a1ebf1e187",
+  "active": "508297e1287b8e58",
   "lastOpenFiles": [
-    "Create Pets Module.md",
-    "Kanbans/Backend Kanban.md",
     "Backend Tasks/Create Pets Module.md",
     "Backend Tasks/Create Kennels Module.md",
+    "Backend Tasks/Implement RBAC authorization.md",
+    "Backend Tasks/Initialize nestJs app.md",
+    "Backend Tasks/Implement authentication.md",
     "Backend Tasks/Create Users Module.md",
+    "Wiki/База Данных.png",
+    "Wiki/База данных.md",
+    "Kanbans/Backend Kanban.md",
+    "Create Pets Module.md",
     "Kanbans/Шаблон задачи.md",
     "Wiki/Работа с `Obsidian`.md",
     "Wiki/Правила по стилю кода.md",
     "Wiki/Техническая документация.md",
     "Wiki/GIT.md",
-    "Backend Tasks/Implement authentication.md",
-    "Backend Tasks/Implement RBAC authorization.md",
     "Frontend Tasks/Базовый SideBar.md",
     "Frontend Tasks/Базовая страница питомника.md",
     "Frontend Tasks/Добавление контекста для User.md",
@@ -203,8 +199,6 @@
     "Files/Screenshot 2025-04-28 at 20.10.02.png",
     "Files/Screenshot 2025-04-28 at 20.09.55.png",
     "Files/Screenshot 2025-04-28 at 20.09.35.png",
-    "Wiki/База данных.md",
-    "Wiki/База Данных.png",
     "Wiki/Правила коммуникации в команде.md",
     "Wiki/Правила по работе с Bruno.md",
     "Files/Screenshot 2025-04-20 at 00.27.03.png",

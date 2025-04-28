@@ -26,7 +26,11 @@ task-id: B5
 | Ссылка на `commit`                                                                                   | Описание                                                                     |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [80c653b](https://github.com/iamfromhe1l/pet-market/commit/80c653b8454b970ef096d3d5dcb52a9579b14905) | "Init Kennels module, create basic service, schema, controller and api docs" |
-|                                                                                                      |                                                                              |
+| [39abe17](https://github.com/iamfromhe1l/pet-market/commit/39abe17224ac9d839bbeb4410baea721313fa985) | "implemented kennelCreation and kennelLeave"                                 |
+| [568f8e4](https://github.com/iamfromhe1l/pet-market/commit/568f8e40521bb248e07c50d5d19c511a344d6b45) | "Merge branch 'dev' into B5"                                                 |
+| [847f8de](https://github.com/iamfromhe1l/pet-market/commit/847f8de97500797533b4c033b23872a90d0c1096) | "Auth fixes: added kennel to jwt and user return type"                       |
+| [bb46ec5](https://github.com/iamfromhe1l/pet-market/commit/bb46ec5c57387b896ddf9da3772a86f348352421) | "Added more functions getKennelById, deleteKennel, leaveKennel"              |
+| [c1b7621](https://github.com/iamfromhe1l/pet-market/commit/c1b7621acffb4ca6552ddd97f68e129933306da3) | "Implemented getUnapprovedKennels, inviteUser methods and routes"            |
 
 ---
 ## **Комментарии**
