@@ -14,7 +14,6 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Implement RBAC authorization]]
-- [ ] [[Backend Tasks/Create Pets Module]]
 
 
 ## On Review
@@ -27,6 +26,7 @@ kanban-plugin: board
 - [ ] [[Create Users Module]]
 - [ ] [[Implement authentication]]
 - [ ] [[Create Kennels Module]]
+- [ ] [[Backend Tasks/Create Pets Module]]
 
 
 ***
