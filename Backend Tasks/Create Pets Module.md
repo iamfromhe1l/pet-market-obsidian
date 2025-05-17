@@ -11,15 +11,17 @@ task-id: B6
 3) Получить одно животное по его id (для просмотра карточки животного). (getPetById)
 4) Обновить информацию о животном. updatePet
 5) Удалить животное. (deletePet)
+6) 
 
 ---
 ## **Этапы выполнения**
 
-| Ссылка на `commit`                                                                                   | Описание                                                      |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [9143dfd](https://github.com/iamfromhe1l/pet-market/commit/9143dfdaa508b21f4888af9cca782e2b54ca61cb) | set up module structure and implement base schema and pet dto |
-|                                                                                                      |                                                               |
-|                                                                                                      |                                                               |
+| Ссылка на `commit`                                                                                   | Описание                                                         |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [9143dfd](https://github.com/iamfromhe1l/pet-market/commit/9143dfdaa508b21f4888af9cca782e2b54ca61cb) | set up module structure and implement base schema and pet dto    |
+| [c929eb0](https://github.com/iamfromhe1l/pet-market/commit/c929eb099fb98b2c13fe41af015c1224dcccd831) | implement full CRUD, search with filters, pagination and sorting |
+|                                                                                                      |                                                                  |
+|                                                                                                      |                                                                  |
 
 ---
 ## **Комментарии**
