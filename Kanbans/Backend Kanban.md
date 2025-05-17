@@ -8,13 +8,13 @@ kanban-plugin: board
 
 - [ ] [[Create Categories Module]]
 - [ ] [[Implement Files Uploading]]
-- [ ] [[Implement HomePages features]]
 - [ ] [[Implement Reviews Module]]
 
 
 ## In Progress
 
 - [ ] [[Implement RBAC authorization]]
+- [ ] [[Implement HomePages features]]
 
 
 ## On Review
