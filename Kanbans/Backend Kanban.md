@@ -6,15 +6,14 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Create Categories Module]]
 - [ ] [[Implement Files Uploading]]
 - [ ] [[Implement Reviews Module]]
 
 
 ## In Progress
 
-- [ ] [[Implement RBAC authorization]]
 - [ ] [[Implement HomePages features]]
+- [ ] [[Create Categories Module]]
 
 
 ## On Review
@@ -26,6 +25,7 @@ kanban-plugin: board
 - [ ] [[Initialize nestJs app]]
 - [ ] [[Create Users Module]]
 - [ ] [[Implement authentication]]
+- [ ] [[Implement RBAC authorization]]
 - [ ] [[Create Kennels Module]]
 - [ ] [[Backend Tasks/Create Pets Module]]
 
