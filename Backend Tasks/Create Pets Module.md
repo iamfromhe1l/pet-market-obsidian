@@ -28,7 +28,7 @@ task-id: B6
 | [9143dfd](https://github.com/iamfromhe1l/pet-market/commit/9143dfdaa508b21f4888af9cca782e2b54ca61cb) | set up module structure and implement base schema and pet dto                         |
 | [c929eb0](https://github.com/iamfromhe1l/pet-market/commit/c929eb099fb98b2c13fe41af015c1224dcccd831) | implement full CRUD, search with filters, pagination and sorting                      |
 | [42a75bb](https://github.com/iamfromhe1l/pet-market/commit/42a75bb9b331a737d9fcbd0d0aba9ad5646b7367) | Adapted Categories Module for Kennels and Pets Moduls, documented APIs and auth.fixes |
-|                                                                                                      |                                                                                       |
+| [e1d9801](https://github.com/iamfromhe1l/pet-market/commit/e1d9801974e3f62b9465e4853a1dd4d358569309) | B6 Squash commit                                                                      |
 
 ---
 ## **Комментарии**
