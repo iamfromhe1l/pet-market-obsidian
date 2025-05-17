@@ -16,16 +16,19 @@ task-id: B6
 8) Добавить пагинацию и возврат общего количества результатов. (searchPets с pagination)
 9) Реализовать сортировку по цене и названию. (searchPets с сортировкой)
 10) Добавить опциональный populate питомника. (populateKennel при необходимости)
+11) Внедрить модуль категорий в модули питомников и питомцев 
+12) Исправить ошибки и недочеты в авторизации по ролям
+13) Написать документацию api в Bruno
 
 ---
 ## **Этапы выполнения**
 
-| Ссылка на `commit`                                                                                   | Описание                                                         |
-| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [9143dfd](https://github.com/iamfromhe1l/pet-market/commit/9143dfdaa508b21f4888af9cca782e2b54ca61cb) | set up module structure and implement base schema and pet dto    |
-| [c929eb0](https://github.com/iamfromhe1l/pet-market/commit/c929eb099fb98b2c13fe41af015c1224dcccd831) | implement full CRUD, search with filters, pagination and sorting |
-|                                                                                                      |                                                                  |
-|                                                                                                      |                                                                  |
+| Ссылка на `commit`                                                                                   | Описание                                                                              |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [9143dfd](https://github.com/iamfromhe1l/pet-market/commit/9143dfdaa508b21f4888af9cca782e2b54ca61cb) | set up module structure and implement base schema and pet dto                         |
+| [c929eb0](https://github.com/iamfromhe1l/pet-market/commit/c929eb099fb98b2c13fe41af015c1224dcccd831) | implement full CRUD, search with filters, pagination and sorting                      |
+| [42a75bb](https://github.com/iamfromhe1l/pet-market/commit/42a75bb9b331a737d9fcbd0d0aba9ad5646b7367) | Adapted Categories Module for Kennels and Pets Moduls, documented APIs and auth.fixes |
+|                                                                                                      |                                                                                       |
 
 ---
 ## **Комментарии**

@@ -4,32 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b7f21f75a3515a",
+        "id": "7eedbaffb901da44",
         "type": "tabs",
         "children": [
           {
-            "id": "508297e1287b8e58",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanbans/Backend Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Backend Kanban"
-            }
-          },
-          {
-            "id": "a83306289f161411",
+            "id": "2c63058c55ffdbb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,8 +21,7 @@
               "title": "Create Pets Module"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,14 +175,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a83306289f161411",
+  "active": "2c63058c55ffdbb0",
   "lastOpenFiles": [
     "Kanbans/Backend Kanban.md",
+    "Backend Tasks/Implement HomePages features.md",
+    "Backend Tasks/Implement Files Uploading.md",
+    "Implement Files Uploading.md",
     "Backend Tasks/Create Pets Module.md",
     "Wiki/База Данных.png",
     "Wiki/База данных.md",
-    "Kanbans/Шаблон задачи.md",
     "Backend Tasks/Create Categories Module.md",
+    "Kanbans/Шаблон задачи.md",
     "conflict-files-obsidian-git.md",
     "Frontend Tasks/Refresh токена авторизации.md",
     "Backend Tasks/Implement RBAC authorization.md",
@@ -228,8 +209,6 @@
     "Files/Screenshot 2025-04-20 at 00.27.03.png",
     "Wiki/База данных-2025-04-09-11-08-30.png",
     "Kanbans/Frontend Kanban.md",
-    "Frontend Tasks/Страница отправки заявки на получение аккаунта питомника.md",
-    "Frontend Tasks/Страница Админ-панели.md",
     "Files/Screenshot 2025-04-08 at 22.21.31.png",
     "Files/Screenshot 2025-04-08 at 22.20.12.png",
     "Files/Screenshot 2025-04-08 at 22.19.44.png",
