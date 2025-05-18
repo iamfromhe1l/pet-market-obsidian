@@ -6,17 +6,16 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Implement Files Uploading]]
 - [ ] [[Implement Reviews Module]]
 
 
 ## In Progress
 
+- [ ] [[Implement Files Uploading]]
 
 
 ## On Review
 
-- [ ] [[Implement HomePages features]]
 
 
 ## Completed
@@ -27,6 +26,7 @@ kanban-plugin: board
 - [ ] [[Implement RBAC authorization]]
 - [ ] [[Create Kennels Module]]
 - [ ] [[Backend Tasks/Create Pets Module]]
+- [ ] [[Implement HomePages features]]
 - [ ] [[Create Categories Module]]
 
 
