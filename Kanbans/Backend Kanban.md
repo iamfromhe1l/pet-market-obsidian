@@ -12,7 +12,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] [[Create Categories Module]]
 
 
 ## On Review
@@ -28,6 +27,7 @@ kanban-plugin: board
 - [ ] [[Implement RBAC authorization]]
 - [ ] [[Create Kennels Module]]
 - [ ] [[Backend Tasks/Create Pets Module]]
+- [ ] [[Create Categories Module]]
 
 
 ***
