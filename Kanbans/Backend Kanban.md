@@ -12,12 +12,12 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] [[Implement HomePages features]]
 - [ ] [[Create Categories Module]]
 
 
 ## On Review
 
+- [ ] [[Implement HomePages features]]
 
 
 ## Completed
