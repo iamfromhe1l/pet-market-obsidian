@@ -6,11 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-<<<<<<< HEAD
-- [ ] [[Implement Files Uploading]]
-=======
-- [ ] [[Implement Reviews Module]]
->>>>>>> origin/main
 
 
 ## In Progress
@@ -20,11 +15,7 @@ kanban-plugin: board
 
 ## On Review
 
-<<<<<<< HEAD
-- [ ] [[Implement HomePages features]]
 - [ ] [[Implement Reviews Module]]
-=======
->>>>>>> origin/main
 
 
 ## Completed
