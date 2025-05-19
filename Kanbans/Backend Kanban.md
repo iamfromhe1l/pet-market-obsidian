@@ -7,7 +7,6 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] [[Implement Files Uploading]]
-- [ ] [[Implement Reviews Module]]
 
 
 ## In Progress
@@ -18,6 +17,7 @@ kanban-plugin: board
 ## On Review
 
 - [ ] [[Implement HomePages features]]
+- [ ] [[Implement Reviews Module]]
 
 
 ## Completed

@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,23 +184,23 @@
   },
   "active": "2c63058c55ffdbb0",
   "lastOpenFiles": [
-    "Backend Tasks/Implement HomePages features.md",
+    "Backend Tasks/Implement Reviews Module.md",
     "Backend Tasks/Implement RBAC authorization.md",
     "Kanbans/Backend Kanban.md",
     "Backend Tasks/Create Pets Module.md",
+    "Kanbans/Шаблон задачи.md",
+    "Wiki/База Данных.png",
+    "Wiki/База данных.md",
+    "Backend Tasks/Create Kennels Module.md",
+    "Backend Tasks/Implement HomePages features.md",
     "Backend Tasks/Implement authentication.md",
     "Backend Tasks/Create Users Module.md",
     "Backend Tasks/Initialize nestJs app.md",
     "Backend Tasks/Create Categories Module.md",
-    "Backend Tasks/Implement Reviews Module.md",
     "Backend Tasks/Implement Files Uploading.md",
     "Implement Files Uploading.md",
-    "Wiki/База Данных.png",
-    "Wiki/База данных.md",
-    "Kanbans/Шаблон задачи.md",
     "conflict-files-obsidian-git.md",
     "Frontend Tasks/Refresh токена авторизации.md",
-    "Backend Tasks/Create Kennels Module.md",
     "Create Pets Module.md",
     "Wiki/Работа с `Obsidian`.md",
     "Wiki/Правила по стилю кода.md",
@@ -213,7 +213,6 @@
     "Files/Screenshot 2025-04-28 at 20.09.55.png",
     "Files/Screenshot 2025-04-28 at 20.09.35.png",
     "Wiki/Правила коммуникации в команде.md",
-    "Wiki/Правила по работе с Bruno.md",
     "Files/Screenshot 2025-04-20 at 00.27.03.png",
     "Wiki/База данных-2025-04-09-11-08-30.png",
     "Files/Screenshot 2025-04-08 at 22.21.31.png",
