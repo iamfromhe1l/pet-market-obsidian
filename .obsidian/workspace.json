@@ -11,21 +11,14 @@
             "id": "2c63058c55ffdbb0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbans/Frontend Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Wiki/Техническая документация.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Frontend Kanban"
+              "icon": "lucide-file",
+              "title": "Техническая документация"
             }
           }
         ]
@@ -184,11 +177,14 @@
   },
   "active": "2c63058c55ffdbb0",
   "lastOpenFiles": [
-    "Frontend Tasks/Страница Админ-панели.md",
+    "Pasted image 20250602214624.png",
+    "Kanbans/Backend Kanban.md",
+    "Files/Снимок экрана 2025-06-02 в 15.38.16.png",
+    "Backend Tasks/Write unit tests.md",
     "Kanbans/Frontend Kanban.md",
+    "Frontend Tasks/Страница Админ-панели.md",
     "Frontend Tasks/NavBar.md",
     "Frontend Tasks/Базовая страница питомника.md",
-    "Kanbans/Backend Kanban.md",
     "Backend Tasks/Implement HomePages features.md",
     "Backend Tasks/Implement Files Uploading.md",
     "Backend Tasks/Implement Reviews Module.md",
@@ -209,8 +205,6 @@
     "Wiki/Работа с `Obsidian`.md",
     "Wiki/Правила по стилю кода.md",
     "Wiki/Техническая документация.md",
-    "Wiki/GIT.md",
-    "Frontend Tasks/Базовый SideBar.md",
     "Files/Screenshot 2025-04-28 at 20.10.02.png",
     "Files/Screenshot 2025-04-28 at 20.09.55.png",
     "Files/Screenshot 2025-04-28 at 20.09.35.png",
@@ -219,7 +213,6 @@
     "Files/Screenshot 2025-04-08 at 22.21.31.png",
     "Files/Screenshot 2025-04-08 at 22.20.12.png",
     "Files/Screenshot 2025-04-08 at 22.19.44.png",
-    "Files/Screenshot 2025-04-08 at 22.20.05.png",
     "Files",
     "Wiki",
     "Kanbans",
